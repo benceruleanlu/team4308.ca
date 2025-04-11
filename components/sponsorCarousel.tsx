@@ -66,7 +66,7 @@ export default function Spoonsors() {
           className="flex"
         >
           <Image
-            src="/rotary.png"
+            src="/magic-of-rotary.png"
             width={120}
             height={100}
             alt="logo of lorem"
